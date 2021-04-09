@@ -1,4 +1,4 @@
-# vue-uikits
+# Vue-uikits
 
 ## Project setup
 ```
