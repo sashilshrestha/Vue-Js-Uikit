@@ -1,6 +1,5 @@
 <template>
     <Cards />
-    This is a demo
 </template>
 
 <script>
